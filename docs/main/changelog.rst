@@ -7,6 +7,12 @@ that were made in every particular version.
 From version 0.7.6 *Dependency Injector* framework strictly 
 follows `Semantic versioning`_
 
+4.41.0post1
+------
+- Add support of Python 3.12.
+- Bump Cython version to 0.29.37.
+- Drop support of legacy Python versions.
+
 4.41.0
 ------
 - Add support of Python 3.11.
